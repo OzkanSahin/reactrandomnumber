@@ -1,6 +1,6 @@
 <h1>GET RANDOM NUMBER</h1>
 
-    React'ın usetate hook'unu kullanarak, bizim belirledigimiz iki sayi arasindan rastgele sayi goruntuleyen kucuk calismami sizlere sunuyorum.
+    React'ın useState hook'unu kullanarak, bizim belirledigimiz iki sayi arasindan rastgele sayi goruntuleyen kucuk calismami sizlere sunuyorum.
 
 
 <h2>Kullanilan Teknolojiler</h2>
